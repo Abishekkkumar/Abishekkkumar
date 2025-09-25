@@ -21,8 +21,9 @@
 ---
 
 ## 📂 Featured Projects  
-- [Crackers Page](https://github.com/Abishekkkumar/crackers-page) — Responsive HTML/CSS landing page  
-- (Add more projects here as you upload)  
+- [Crackers Page](https://github.com/Abishekkkumar/crackers-page) — Responsive HTML/CSS landing page
+- todolist-full-stack
+
 
 ---
 
