@@ -15,7 +15,13 @@
 ## 🛠️ Skills  
 - HTML5  
 - CSS3 (Flexbox, Grid)  
-- JavaScript (basics, learning more)  
+- JavaScript (basics, learning more)
+- vue.js
+- python
+- c
+- node.js
+- express.js
+- MondoDb
 - Git & GitHub  
 
 ---
