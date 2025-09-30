@@ -33,7 +33,8 @@
 
 ## 📂 Featured Projects  
 - [Crackers Page](https://github.com/Abishekkkumar/crackers-page) — Responsive HTML/CSS landing page
-- todolist-full-stack
+- Todolist-full-stack
+- shopify-order-management-dashboard
 
 
 ---
